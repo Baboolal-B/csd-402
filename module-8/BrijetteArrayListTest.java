@@ -1,6 +1,6 @@
 /*
-* 06/29/2025
-* BaboolalUseFans.java
+* 07/06/2025
+* BrijetteArrayListTest.java
 *
 * This program collects integers from the 
 * user and stores them in an ArrayList until 
